@@ -1,0 +1,2 @@
+class SingletonMeta(type):
+    pass
